@@ -1,0 +1,121 @@
+[33mcommit 852fc68dc92ff4af34ca8c61018a4001ca1d4ab2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: 1731017008@ACADEMICO.IESB.BR <1731017008@ACADEMICO.IESB.BR>
+Date:   Mon Sep 4 19:55:26 2017 -0300
+
+    mensagem do commit
+
+[33mcommit ce990233d34da059f34b1c9b6e4b72b81b511ac0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: pos pos <pos@iesb.br>
+Date:   Mon Sep 4 18:37:36 2017 -0300
+
+    removi arquivos de exemplo
+
+[33mcommit 89e2eb40cd78b9c09952fcb43d674cb67e1ef617[m
+Author: pos pos <pos@iesb.br>
+Date:   Mon Sep 4 18:34:49 2017 -0300
+
+    exemplo 2
+
+[33mcommit e14043fd59cdb1e1a21480c313f9b72ec510ef72[m
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Sat Sep 2 19:28:54 2017 -0300
+
+    ultimas alterações
+
+[33mcommit d6f4200e8ad2b1e7f7e3ef88ed2094c473ea4c19[m
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Sat Sep 2 19:12:15 2017 -0300
+
+    adicionando cheat sheets
+
+[33mcommit 522abfd5322f761d49fd9861410eb4937ce1df1f[m
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Sat Sep 2 19:11:22 2017 -0300
+
+    exemplo até merge
+
+[33mcommit fe26cf59ac2c29ae9476f3f6b3b749878141e901[m
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Sat Sep 2 19:10:57 2017 -0300
+
+    correcao acentuacao nos dados
+
+[33mcommit a7640af993b2e3893d2b700f2675483af9fc077d[m
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Sat Sep 2 16:18:29 2017 -0300
+
+    exemplo de código R
+
+[33mcommit 9b64cb317616c031974da0dd73c5eff92c3434c0[m
+Merge: ffc72f7 8662322
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Sat Sep 2 16:17:17 2017 -0300
+
+    Merge branch 'master' of github.com:avitaliano/iesb-posbi-dataquality
+
+[33mcommit ffc72f74b51690b32b6479c3f4905a5ca4e96875[m
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Sat Sep 2 16:17:04 2017 -0300
+
+    corrigindo acentuacao do arquivo censo.csv
+
+[33mcommit 8662322071cdb90fd1f426f40c52517d37ea9270[m
+Author: Arnaldo Vitaliano <avitaliano@users.noreply.github.com>
+Date:   Sat Sep 2 12:15:03 2017 -0300
+
+    Update Readme.md
+
+[33mcommit 41ff71db1c8085794cc0cc8e7d8853005d27c8f9[m
+Author: Arnaldo Vitaliano <avitaliano@users.noreply.github.com>
+Date:   Sat Sep 2 12:14:19 2017 -0300
+
+    Update Readme.md
+
+[33mcommit 1b094cf19c7f445b486ff12553382bd08d9711a8[m
+Merge: 1345b70 355e544
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Sat Sep 2 12:10:05 2017 -0300
+
+    Merge branch 'master' of github.com:avitaliano/iesb-posbi-dataquality
+
+[33mcommit 355e544666f20d421ab5b3217aefdb3dc3987938[m
+Author: Arnaldo Vitaliano <avitaliano@users.noreply.github.com>
+Date:   Sat Sep 2 12:09:49 2017 -0300
+
+    Update Readme.md
+
+[33mcommit 988c54439797bb6c45036c97d025238619faf80a[m
+Author: Arnaldo Vitaliano <avitaliano@users.noreply.github.com>
+Date:   Sat Sep 2 12:08:11 2017 -0300
+
+    Update Readme.md
+
+[33mcommit 1345b70e3afe3c7810de12b46303112ee7ee5304[m
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Sat Sep 2 12:06:34 2017 -0300
+
+    exemplo de uso do git
+
+[33mcommit dc7aef53376ca5424bb9747f667db0e0ac855878[m
+Author: Arnaldo Vitaliano <avitaliano@users.noreply.github.com>
+Date:   Sat Sep 2 11:45:33 2017 -0300
+
+    Update Readme.md
+
+[33mcommit fbe7ebc83611380e4cebc4bef4fcdccf941dba28[m
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Tue Aug 29 22:46:03 2017 -0300
+
+    esboço do laboratório
+
+[33mcommit af170c35f3763bf1a296e4e0e9f760711eece6ef[m[33m ([m[1;31morigin/arnaldo[m[33m)[m
+Author: Arnaldo Vitaliano <avitaliano@users.noreply.github.com>
+Date:   Tue Aug 29 21:19:06 2017 -0300
+
+    Update Readme.md
+
+[33mcommit 426c19ed0685677593279f5212956a776379dc3c[m
+Author: Arnaldo Vitaliano <vitaliano@email.com>
+Date:   Tue Aug 29 21:13:21 2017 -0300
+
+    commit inicial
